@@ -1,6 +1,8 @@
 # hello-world
 First Repository
 
-Hello, This is my first project and I will print hello world.
+Hello Everybody!
 
-my keyboard is messed up
+This is my first project on github. Hopefully we will be able to create some cool stuff
+
+As of right now, This project is printing out to show Hello World. 
